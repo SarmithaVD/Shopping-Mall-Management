@@ -1,0 +1,14 @@
+RmKV
+RmKV@11
+41
+A01
+Silk_Saree
+8000
+Benaras_Cotton_Saree
+4000
+Casual_Shirt
+800
+Formal_Shirt
+950
+Kurta
+1500

@@ -1,0 +1,14 @@
+H&M
+H&M@22
+18467
+B02
+Ladies_Top
+500
+Ladies_Dress
+1500
+Men_T-shirt
+750
+Men_Shirt
+1200
+Ladies_Sportswear
+700

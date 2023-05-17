@@ -1,0 +1,285 @@
+# depslib dependency file v1.0
+1655742102 source:c:\users\dell\desktop\sem_2\oop\shopping_mall\admin.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"admin.h"
+	"user.h"
+	"shop.h"
+
+1655742102 c:\users\dell\desktop\sem_2\oop\shopping_mall\admin.h
+	<iostream>
+	<string>
+	"user.h"
+	"shop.h"
+
+1655719766 c:\users\dell\desktop\sem_2\oop\shopping_mall\user.h
+	<iostream>
+	<string>
+
+1655748455 c:\users\dell\desktop\sem_2\oop\shopping_mall\shop.h
+	<iostream>
+	<string>
+	"item.h"
+
+1655719747 c:\users\dell\desktop\sem_2\oop\shopping_mall\item.h
+	<iostream>
+	<string>
+
+1655751336 source:c:\users\dell\desktop\sem_2\oop\shopping_mall\bill.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"cart.h"
+	"bill.h"
+
+1655719739 c:\users\dell\desktop\sem_2\oop\shopping_mall\cart.h
+	<iostream>
+	<string>
+
+1655719734 c:\users\dell\desktop\sem_2\oop\shopping_mall\bill.h
+	"cart.h"
+
+1655787289 source:c:\users\dell\desktop\sem_2\oop\shopping_mall\cart.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"cart.h"
+	"item.h"
+	"bill.h"
+
+1655719743 source:c:\users\dell\desktop\sem_2\oop\shopping_mall\item.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"item.h"
+
+1655751882 source:c:\users\dell\desktop\sem_2\oop\shopping_mall\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"shop.h"
+	"item.h"
+	"admin.h"
+
+1655741486 source:c:\users\dell\desktop\sem_2\oop\shopping_mall\shop.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"shop.h"
+	"item.h"
+
+1655750998 source:c:\users\dell\desktop\sem_2\oop\shopping_mall\user.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"user.h"
+	"shop.h"
+	"cart.h"
+	"item.h"
+
+1655788046 source:c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\admin.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"admin.h"
+	"user.h"
+	"shop.h"
+
+1655788046 c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\admin.h
+	<iostream>
+	<string>
+	"user.h"
+	"shop.h"
+
+1655788046 c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\user.h
+	<iostream>
+	<string>
+
+1655788046 c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\shop.h
+	<iostream>
+	<string>
+	"item.h"
+
+1655788046 c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\item.h
+	<iostream>
+	<string>
+
+1655788046 source:c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\bill.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"cart.h"
+	"bill.h"
+
+1655788046 c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\cart.h
+	<iostream>
+	<string>
+
+1655788046 c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\bill.h
+	"cart.h"
+
+1655788045 source:c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\cart.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"cart.h"
+	"item.h"
+	"bill.h"
+
+1655788046 source:c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\item.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"item.h"
+
+1655788046 source:c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\shop.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"shop.h"
+	"item.h"
+
+1655788046 source:c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\user.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"user.h"
+	"shop.h"
+	"cart.h"
+	"item.h"
+
+1655788610 source:c:\users\sarmitha v d\onedrive\desktop\c++ package\shoppingmall\shopping_mall\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<cstring>
+	<bits/stdc++.h>
+	"shop.h"
+	"item.h"
+	"admin.h"
+

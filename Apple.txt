@@ -1,0 +1,14 @@
+Apple
+Apple@99
+26962
+A03
+iPhone_13_Pro
+120000
+iPad_air
+55000
+MacBook_Pro_13
+130000
+AirPod_Pro
+26500
+Apple_Watch_Series_7
+42000

@@ -1,0 +1,14 @@
+KFC
+KFC@66
+15724
+B03
+Chicken_Bucket
+460
+Pepsi
+60
+TripleTreat
+640
+Mingles_Bucket
+290
+KFC_Meal
+380

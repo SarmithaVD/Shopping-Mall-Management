@@ -1,0 +1,14 @@
+Max
+Max@44
+26500
+D01
+T-shirt
+500
+Bottom
+700
+Jumpsuit
+900
+Women_Footwear
+600
+Men_Footwear
+800
